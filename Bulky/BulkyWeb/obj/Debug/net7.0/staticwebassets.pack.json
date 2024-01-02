@@ -21,6 +21,38 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.css"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.css.map"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.min.css"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.min.css.map"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.css"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.min.css.map"
+    },
+    {
       "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
