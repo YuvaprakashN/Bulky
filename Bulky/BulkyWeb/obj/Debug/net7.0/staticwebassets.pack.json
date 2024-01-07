@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
       "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
@@ -13,44 +13,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\052cfcef-2625-4c79-9be0-974f374e2bc3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\052cfcef-2625-4c79-9be0-974f374e2bc3.jpg"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\3af7db1a-1c90-4a87-b9b8-bd5f2fd7fe95.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3af7db1a-1c90-4a87-b9b8-bd5f2fd7fe95.jpg"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9c20da12-1ff5-45d2-bc1e-8d1277156c42.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9c20da12-1ff5-45d2-bc1e-8d1277156c42.jpg"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
       "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
       "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
-    },
-    {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.css"
-    },
-    {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.css.map"
-    },
-    {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.min.css"
-    },
-    {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.min.css.map"
-    },
-    {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.css"
-    },
-    {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap - Copy.rtl.min.css.map"
     },
     {
       "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -277,20 +261,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
-      "PackagePath": "build\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyBookWeb.props",
+      "PackagePath": "build\\BulkyBookWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
-      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBookWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBookWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
-      "PackagePath": "buildTransitive\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyBookWeb.props",
+      "PackagePath": "buildTransitive\\BulkyBookWeb.props"
     }
   ],
   "ElementsToRemove": []
