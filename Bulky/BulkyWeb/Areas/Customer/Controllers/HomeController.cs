@@ -22,6 +22,12 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
             IEnumerable<Product> products = _unitOfWork.Product.GetAll(IncludeProperties: "Category");
             return View(products);
         }
+        public IActionResult Details(int productId)
+        {
+            Product product = _unitOfWork.Product.Get(u => u.Id == productId, IncludeProperties: "Category");
+            return View(product);
+        }
+
 
         public IActionResult Privacy()
         {
