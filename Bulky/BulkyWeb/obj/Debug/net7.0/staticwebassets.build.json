@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DCQ97cNxDstqy/bvTB0BWG1xdEXvxlxnMsWJws3LLYw=",
+  "Hash": "kn3Pi+ETouEA4Cg/09CVZXYxpAiDLxF6Vpmd3FJd6YA=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1239,6 +1239,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\d5c9fefa-8b2a-4496-a4b3-a0d8e18ca6ed.jpg"
+    },
+    {
+      "Identity": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",

@@ -1,15 +1,16 @@
 ﻿using BulkyBook.DataAccess.Repository.IRepository;
+using BulkyBook.Models;
 using BulkyBook.Models.Models;
 using BulkyBookWeb.Data;
 
 
 namespace BulkyBook.DataAccess.Repository
 {
-    public class CategoryRepository : Repositary<Category>, ICategoryRepository
+    public class CompanyRepository : Repositary<Company>, ICompanyRepository
     {
 
         private readonly ApplicationDbContext _db;
-        public CategoryRepository(ApplicationDbContext db):base(db)
+        public CompanyRepository(ApplicationDbContext db):base(db)
         {
             _db = db;
 
@@ -17,9 +18,11 @@ namespace BulkyBook.DataAccess.Repository
 
       
 
-        void ICategoryRepository.Update(Category category)
+      
+
+        void ICompanyRepository.Update(Company company)
         {
-            _db.Categories.Update(category);
+           _db.Companies.Update(company);
         }
     }
 }
