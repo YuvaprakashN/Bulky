@@ -5,6 +5,7 @@ using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -28,9 +29,19 @@ namespace BulkyBook.DataAccess.Repository
             _dbSet.Add(entity);
         }
 
-        public T Get(System.Linq.Expressions.Expression<Func<T, bool>> predicate,string? IncludeProperties=null)
+        public T Get(System.Linq.Expressions.Expression<Func<T, bool>> predicate, string? IncludeProperties = null, bool tracked = false)
         {
-            IQueryable<T> query = _dbSet;
+            IQueryable<T> query;
+            if (tracked)
+            {
+                query = _dbSet;
+
+            }
+            else
+            {
+                query = _dbSet.AsNoTracking();
+            }
+
             query = query.Where(predicate);
 
             if (!string.IsNullOrEmpty(IncludeProperties))
@@ -45,9 +56,13 @@ namespace BulkyBook.DataAccess.Repository
             return query.FirstOrDefault();
         }
 
-        public IEnumerable<T> GetAll(string? IncludeProperties = null)
+        public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter,string? IncludeProperties = null)
         {
             IQueryable<T> query = _dbSet;
+            if (filter != null)
+            {
+                query = query.Where(filter);
+            }
             if (!string.IsNullOrEmpty(IncludeProperties))
             {
                 foreach (var includeProp in IncludeProperties

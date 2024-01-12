@@ -1,287 +1,287 @@
 {
   "Files": [
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\052cfcef-2625-4c79-9be0-974f374e2bc3.jpg",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\052cfcef-2625-4c79-9be0-974f374e2bc3.jpg",
       "PackagePath": "staticwebassets\\images\\product\\052cfcef-2625-4c79-9be0-974f374e2bc3.jpg"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\3af7db1a-1c90-4a87-b9b8-bd5f2fd7fe95.jpg",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\3af7db1a-1c90-4a87-b9b8-bd5f2fd7fe95.jpg",
       "PackagePath": "staticwebassets\\images\\product\\3af7db1a-1c90-4a87-b9b8-bd5f2fd7fe95.jpg"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\5adcb239-6f33-43e1-9455-2259317292f2.jpg",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\5adcb239-6f33-43e1-9455-2259317292f2.jpg",
       "PackagePath": "staticwebassets\\images\\product\\5adcb239-6f33-43e1-9455-2259317292f2.jpg"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\66fe680b-0a7e-4c7c-9c52-116de5620549.jpg",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\66fe680b-0a7e-4c7c-9c52-116de5620549.jpg",
       "PackagePath": "staticwebassets\\images\\product\\66fe680b-0a7e-4c7c-9c52-116de5620549.jpg"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9c20da12-1ff5-45d2-bc1e-8d1277156c42.jpg",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9c20da12-1ff5-45d2-bc1e-8d1277156c42.jpg",
       "PackagePath": "staticwebassets\\images\\product\\9c20da12-1ff5-45d2-bc1e-8d1277156c42.jpg"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9da93e35-487e-4098-8f34-e5917b9d53f0.jpg",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9da93e35-487e-4098-8f34-e5917b9d53f0.jpg",
       "PackagePath": "staticwebassets\\images\\product\\9da93e35-487e-4098-8f34-e5917b9d53f0.jpg"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9dd1e8e0-52c9-4249-b468-3947e37784e6.jpg",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9dd1e8e0-52c9-4249-b468-3947e37784e6.jpg",
       "PackagePath": "staticwebassets\\images\\product\\9dd1e8e0-52c9-4249-b468-3947e37784e6.jpg"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\d5c9fefa-8b2a-4496-a4b3-a0d8e18ca6ed.jpg",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\d5c9fefa-8b2a-4496-a4b3-a0d8e18ca6ed.jpg",
       "PackagePath": "staticwebassets\\images\\product\\d5c9fefa-8b2a-4496-a4b3-a0d8e18ca6ed.jpg"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
       "PackagePath": "staticwebassets\\js\\Product.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
