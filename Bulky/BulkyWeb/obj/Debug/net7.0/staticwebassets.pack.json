@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\happy.jpg",
+      "PackagePath": "staticwebassets\\images\\happy.jpg"
+    },
+    {
       "Id": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\052cfcef-2625-4c79-9be0-974f374e2bc3.jpg",
       "PackagePath": "staticwebassets\\images\\product\\052cfcef-2625-4c79-9be0-974f374e2bc3.jpg"
     },

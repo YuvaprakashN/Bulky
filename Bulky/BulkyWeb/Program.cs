@@ -5,6 +5,7 @@ using BulkyBookWeb.Data;
 using Microsoft.EntityFrameworkCore;
 using BulkyBook.Utility;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +19,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
-
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 //Add DBContext
 builder.Services.AddDbContext<ApplicationDbContext>(o =>
 o.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -47,7 +48,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<String>();
 app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();

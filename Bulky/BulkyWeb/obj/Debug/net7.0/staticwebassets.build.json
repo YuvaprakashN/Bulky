@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sBM0181o5+1U/Dy80Ks64kGn391DuPjdl3c+5conYxI=",
+  "Hash": "J65L7ljfysSn3s5y66u7fX20mTsh1ZKijRyjgkUrg4g=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1103,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/book.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\book.png"
+    },
+    {
+      "Identity": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\happy.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/happy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\happy.jpg"
     },
     {
       "Identity": "C:\\Yuva\\Learning\\NET-CORE-MVC\\Bulky-2\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\052cfcef-2625-4c79-9be0-974f374e2bc3.jpg",
